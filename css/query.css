@@ -7,8 +7,8 @@ html {
   height: 100%;
 }
 
-.container {
-
+.container h2 {
+  color: #2980b9;
 }
 
 .table_container {
