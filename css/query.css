@@ -1,0 +1,19 @@
+body {
+  font-family: Lato;
+  color: black;
+}
+
+html {
+  height: 100%;
+}
+
+.container {
+
+}
+
+.table_container {
+  padding-top: 2%;
+  width: 1200px;
+  margin: 0 auto;
+
+}
