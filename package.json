@@ -1,0 +1,33 @@
+{
+  "name": "uaac-database",
+  "version": "1.0.0",
+  "description": "uaac database connection",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aidanpirish/uaac-database.git"
+  },
+  "keywords": [
+    "sql",
+    "mysql",
+    "node",
+    "js",
+    "javascript"
+  ],
+  "author": "Aidan Irish",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aidanpirish/uaac-database/issues"
+  },
+  "homepage": "https://github.com/aidanpirish/uaac-database#readme",
+  "dependencies": {
+    "db": "^1.0.6",
+    "express": "^4.16.2",
+    "mssql": "^4.1.0",
+    "mysql": "^2.15.0",
+    "yarn": "^1.3.2"
+  }
+}
